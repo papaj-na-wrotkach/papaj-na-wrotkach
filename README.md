@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jonatan Czarniecki</h1>
-<h3 align="center">A software developer from Wrocław, Poland. Graduate of EZN (Elektroniczne Zakłady Naukowe)</h3>
+<h3 align="center">A 20 y.o. junior software developer from Wrocław, Poland.</h3>
+
+#### Graduate of EZN (Elektroniczne Zakłady Naukowe)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papaj-na-wrotkach&label=Profile%20views&color=0e75b6&style=flat" alt="papaj-na-wrotkach" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papaj-na-wrotkach" alt="papaj-na-wrotkach" /></a> </p> -->
 
+- 👀 Looking for a job in **Software development** or **IT**
+
 - 🌱 I’m currently learning **Rust, C++, and AI/ML/LLMs**
 
-- 👀 Searching for a job in **Software development** or **IT**
-
-- 📫 How to reach me [**czarniecki.jonatan@gmail.com**](mailto:czarniecki.jonatan@gmail.com)
+- 📫 Reach me: **@papaj_na_wrotkach** on [**Discord**](https://discord.com/users/570683251170213891) and [**Telegram**](https://t.me/papaj_na_wrotkach) or [**czarniecki.jonatan@gmail.com**](mailto:czarniecki.jonatan@gmail.com)
 
 - 📄 Know about my experiences [https://papaj-na-wrotkach.github.io/markdown-cv/](https://papaj-na-wrotkach.github.io/markdown-cv/)
 
